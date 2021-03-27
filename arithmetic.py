@@ -1,0 +1,12 @@
+x=20
+y=10
+a=x+y
+b=x-y
+c=x*y
+d=x%y
+e=x/y
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
